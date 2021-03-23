@@ -7,5 +7,8 @@ module.exports = {
         `
             }
         }
-    }
+    },
+    publicPath: './'
+
+
 };
